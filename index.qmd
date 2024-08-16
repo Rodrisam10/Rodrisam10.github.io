@@ -1,5 +1,5 @@
 ---
-title: "Rodrisam10.github.io"
+title: "Python y yo"
 ---
 
 This is a Quarto website.
