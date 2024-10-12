@@ -1,6 +1,5 @@
 ---
 title: "Cómo codear en R dentro de google Colab"
-comments: 
 ---
 # Problemática
 
