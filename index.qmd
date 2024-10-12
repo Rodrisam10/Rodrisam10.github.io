@@ -3,7 +3,7 @@ title: "Cómo codear en R dentro de google Colab"
 ---
 # Problemática
 
-Es necesario cambiar el entorno de ejecución de google Colab
+Es necesario cambiar el entorno de ejecución de google Colab.
 
 ## Pasos a seguir:
 
