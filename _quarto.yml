@@ -14,7 +14,7 @@ format:
     comments:
       giscus: 
         repo: quarto-dev/quarto-docs
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
