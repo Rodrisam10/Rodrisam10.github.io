@@ -12,15 +12,6 @@ website:
 format:
   html:
   comments:
-  giscus:
-    repo: Rodrisam10/Rodrisam10.github.io
-    repo-id: R_kgDOMkhWNA
-    category: Announcements
-    category-id: DIC_kwDOMkhWNM4CjTuW
-    mapping: pathname
-    reactions-enabled: true
-    theme: light
-    lang: es
   theme: cosmo
   css: styles.css
   toc: true
