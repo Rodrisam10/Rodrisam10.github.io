@@ -11,10 +11,12 @@ website:
 
 format:
   html:
-  comments:
-  theme: cosmo
-  css: styles.css
-  toc: true
+    comments:
+      giscus: 
+        repo: quarto-dev/quarto-docs
+    theme: cosmo
+    css: styles.css
+    toc: true
 
 
 
