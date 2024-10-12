@@ -1,19 +1,13 @@
 ---
-<<<<<<< HEAD
-title: "Python y yo"
-=======
-title: "¿Sólo sé que mi vida es un algoritmo?"
->>>>>>> c0c251d (Second commit at night)
+title: "Cómo codear en R dentro de google Colab"
 ---
+# Problemática
 
-Existen muchas formas de abordar problemas relacionados con datos, y los algoritmos son una de las herramientas más fundamentales para ello. Los algoritmos son secuencias finitas de pasos precisos y bien definidos que nos permiten resolver problemas específicos o realizar tareas concretas. Desde el momento en que anotas el número del asistente de laboratorio que rompió una probeta hasta cuando intentas corregir un error en el balance mensual, estás aplicando procesos que pueden ser entendidos como algoritmos: secuencias organizadas de acciones para alcanzar un resultado deseado.
+Es necesario cambiar el entorno de ejecución de google Colab
 
-Un algoritmo, en su esencia más pura, es una serie de instrucciones claras y no ambiguas que se siguen para transformar una entrada en una salida. Imagina que te preguntan qué es un algoritmo. La respuesta adecuada sería: un algoritmo es un conjunto ordenado de pasos diseñados para resolver un problema o realizar una tarea específica. La pregunta sobre un algoritmo no es solo sobre la respuesta en sí, sino sobre el proceso preciso para llegar a esa respuesta.
+## Pasos a seguir:
 
-Cada algoritmo comienza con una entrada, realiza una serie de operaciones siguiendo reglas establecidas y termina con una salida. Este proceso debe ser finito, es decir, debe concluir en un número determinado de pasos. Si no se proporciona una respuesta clara o si el proceso se vuelve indefinido, el algoritmo no cumpliría su propósito. Las computadoras, a diferencia de las personas, no pueden tolerar la incertidumbre en los procesos; requieren que cada algoritmo esté claramente definido y sea finito para ejecutar correctamente las tareas.
-
-En contraste con la ambigüedad que a veces enfrentan las respuestas humanas, los algoritmos se basan en la precisión y en la lógica rigurosa para garantizar que cada problema sea resuelto de manera eficaz y reproducible. Cada paso debe ser ejecutable y tener un impacto claro en el resultado final.
-
+- 1. Diríjase a la barra de tareas de google colab, busque "entorno de ejecución" (o su equivalente en el idioma que tiene configurado)
 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
