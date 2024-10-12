@@ -11,6 +11,8 @@ website:
 
 format:
   html:
+    includes:
+      after-body: _giscus.html
     theme: cosmo
     css: styles.css
     toc: true
