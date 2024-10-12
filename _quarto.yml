@@ -11,8 +11,9 @@ website:
 
 format:
   html:
-    includes:
-      after-body: _giscus.html
+  comments:
+  giscus: 
+    repo: quarto-dev/quarto-docs
     theme: cosmo
     css: styles.css
     toc: true
