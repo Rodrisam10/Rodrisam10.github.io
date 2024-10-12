@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Python y yo",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cómo codear en R dentro de google Colab",
+    "section": "",
+    "text": "Es necesario cambiar el entorno de ejecución de google Colab\n\n\n\n\nDiríjase a la barra de tareas de google colab, busque “entorno de ejecución” (o su equivalente en el idioma que tiene configurado)\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#pasos-a-seguir",
+    "href": "index.html#pasos-a-seguir",
+    "title": "Cómo codear en R dentro de google Colab",
+    "section": "",
+    "text": "Diríjase a la barra de tareas de google colab, busque “entorno de ejecución” (o su equivalente en el idioma que tiene configurado)\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
