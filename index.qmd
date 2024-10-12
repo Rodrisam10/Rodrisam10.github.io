@@ -9,6 +9,7 @@ Es necesario cambiar el entorno de ejecución de google Colab.
 
 - 1. Diríjase a la barra de tareas de google colab, busque "entorno de ejecución" (o su equivalente en el idioma que tiene configurado)
 
+![sc_1](screenshot_1.png)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
