@@ -6,9 +6,11 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "How to code R with Google Colab"
+      - text: "Y ahora qué"
+        href: index.qmd
+      - section: "R: lo que tienes que saber"
         contents:
-          - href: index.qmd
+          - basics-R.qmd
   title: "Rodrisam10.github.io"
   navbar:
     left:
