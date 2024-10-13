@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "Python_y_yo.html",
+    "href": "Python_y_yo.html",
+    "title": "Generalidades",
+    "section": "",
+    "text": "Python es un lenguaje de programación de alto nivel sensible a la indentación.\n\n\n\n\n\n\nNo se mantienen los archivos subidos, en cada sesión es necesario subirlos al directorio de Google colab"
+  },
+  {
+    "objectID": "Python_y_yo.html#ejecución-de-python-en-google-colab",
+    "href": "Python_y_yo.html#ejecución-de-python-en-google-colab",
+    "title": "Generalidades",
+    "section": "",
+    "text": "No se mantienen los archivos subidos, en cada sesión es necesario subirlos al directorio de Google colab"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "basics-R.html",
     "href": "basics-R.html",
     "title": "R: lo que tienes que saber",
@@ -10,13 +31,6 @@
       "R: lo que tienes que saber",
       "R: lo que tienes que saber"
     ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
