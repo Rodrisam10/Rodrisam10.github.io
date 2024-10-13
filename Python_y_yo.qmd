@@ -1,0 +1,15 @@
+---
+Title: "Python y yo"
+---
+
+# Generalidades
+
+- Python es un lenguaje de programación de alto nivel sensible a la indentación.
+
+## Ejecución de Python en Google Colab
+
+### Precauciones:
+
+- No se mantienen los archivos subidos, en cada sesión es necesario subirlos al directorio de Google colab
+
+
