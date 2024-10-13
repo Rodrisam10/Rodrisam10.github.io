@@ -8,6 +8,9 @@ website:
     contents:
       - text: "Y ahora qué"
         href: index.qmd
+      - section: "Python: lo que tienes que saber"
+        contents:
+          - Python_y_yo.qmd
       - section: "R: lo que tienes que saber"
         contents:
           - basics-R.qmd
