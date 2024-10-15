@@ -211,7 +211,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#operaciones-básicas-en-r" id="toc-operaciones-básicas-en-r" class="nav-link active" data-scroll-target="#operaciones-básicas-en-r">Operaciones básicas en R</a></li>
+  <li><a href="#operaciones-básicas-en-r" id="toc-operaciones-básicas-en-r" class="nav-link active" data-scroll-target="#operaciones-básicas-en-r">Operaciones básicas en R</a>
+  <ul class="collapse">
+  <li><a href="#radicación" id="toc-radicación" class="nav-link" data-scroll-target="#radicación">Radicación</a></li>
+  <li><a href="#logaritmo" id="toc-logaritmo" class="nav-link" data-scroll-target="#logaritmo">Logaritmo</a></li>
+  </ul></li>
+  <li><a href="#operaciones-combinadas" id="toc-operaciones-combinadas" class="nav-link" data-scroll-target="#operaciones-combinadas">Operaciones Combinadas</a>
+  <ul class="collapse">
+  <li><a href="#ejemplos" id="toc-ejemplos" class="nav-link" data-scroll-target="#ejemplos">Ejemplos:</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -272,8 +280,48 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <pre><code>[1] 6561</code></pre>
 </div>
 </div>
+<section id="radicación" class="level3">
+<h3 class="anchored" data-anchor-id="radicación">Radicación</h3>
+<p>R define la radicación para un valor de índice 2, para ampliar la ejecución a cualquier valor del índice, nos apoyamos en la definición de la radicación como exponente fraccionario. El argumento es “sqrt()”</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="co">#radicación para índice = 2</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sqrt</span>(<span class="dv">81</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 9</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co">#radicación para cualquier valor de índice </span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="co"># result &lt;- m^(1/n)</span></span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Donde m es la base y n el índice de la raíz</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="logaritmo" class="level3">
+<h3 class="anchored" data-anchor-id="logaritmo">Logaritmo</h3>
+<p>R define el logaritmo en base e, o logaritmo natural. Para ampliar la ejecución para caulquier número mayor que 0 y base mayor a 0 y diferente a 1, tenemos dos opciones</p>
+<ul>
+<li>Opción 1:</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="co"># log(&lt;tu_numero&gt;, base = &lt;tu base&gt;)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<ul>
+<li>Opción 2:</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="co"># log(&lt;tu_numero&gt;,&lt;tu_base&gt;)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Este caso es símil a una función que admite dos argumentos: valor del número de prueba y el valor de la base.</p>
+</section>
+</section>
+<section id="operaciones-combinadas" class="level2">
+<h2 class="anchored" data-anchor-id="operaciones-combinadas">Operaciones Combinadas</h2>
+<section id="ejemplos" class="level3">
+<h3 class="anchored" data-anchor-id="ejemplos">Ejemplos:</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>formula_1 <span class="ot">&lt;-</span> <span class="fu">log</span>(<span class="fl">2.5</span><span class="sc">^</span><span class="fl">1.2</span>, <span class="fl">2.33</span>) <span class="sc">+</span> <span class="fu">sqrt</span>((<span class="dv">430</span><span class="sc">^</span>(<span class="dv">1</span><span class="sc">/</span><span class="fl">1.4</span>)<span class="sc">-</span><span class="dv">5</span>)<span class="sc">/</span>(<span class="fl">6.2</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
