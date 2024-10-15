@@ -10,7 +10,7 @@ Tener en cuenta:
 2. Declaración explicita de la operación matemática a ejecutar
 3. Jerarquía de operaciones
 
-```
+```{r}
 # SUMA
 3+8
 
