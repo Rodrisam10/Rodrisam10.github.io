@@ -14,7 +14,7 @@ website:
       - section: "R: lo que tienes que saber"
         contents:
           - basics-R.qmd
-  title: "Rodrisam10.github.io"
+  title: "Karlim"
   navbar:
     left:
       - href: index.qmd
