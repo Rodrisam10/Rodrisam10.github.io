@@ -4,7 +4,19 @@
     "href": "basics-R.html",
     "title": "R: lo que tienes que saber",
     "section": "",
-    "text": "Hola",
+    "text": "Tener en cuenta:\n\nSignos de agrupación\nDeclaración explicita de la operación matemática a ejecutar\nJerarquía de operaciones\n\n# SUMA\n3+8\n\n# RESTA\n3-8\n\n# Multiplicación\n3*8\n\n# División\n3/8\n\n# Potenciación\n3^(8)",
+    "crumbs": [
+      "Home",
+      "R: lo que tienes que saber",
+      "R: lo que tienes que saber"
+    ]
+  },
+  {
+    "objectID": "basics-R.html#operaciones-básicas-en-r",
+    "href": "basics-R.html#operaciones-básicas-en-r",
+    "title": "R: lo que tienes que saber",
+    "section": "",
+    "text": "Tener en cuenta:\n\nSignos de agrupación\nDeclaración explicita de la operación matemática a ejecutar\nJerarquía de operaciones\n\n# SUMA\n3+8\n\n# RESTA\n3-8\n\n# Multiplicación\n3*8\n\n# División\n3/8\n\n# Potenciación\n3^(8)",
     "crumbs": [
       "Home",
       "R: lo que tienes que saber",
