@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Rodrisam10.github.io/Semana_6_programación.html</loc>
-    <lastmod>2024-10-13T00:38:54.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Rodrisam10.github.io/Python_y_yo.html</loc>
-    <lastmod>2024-10-13T00:38:54.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Rodrisam10.github.io/about.html</loc>
-    <lastmod>2024-10-13T00:38:54.779Z</lastmod>
-  </url>
-  <url>
     <loc>https://Rodrisam10.github.io/basics-R.html</loc>
-    <lastmod>2024-10-13T00:38:54.779Z</lastmod>
+    <lastmod>2024-10-15T00:55:30.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Rodrisam10.github.io/Semana_6_programación.html</loc>
+    <lastmod>2024-10-15T00:55:30.910Z</lastmod>
   </url>
   <url>
     <loc>https://Rodrisam10.github.io/index.html</loc>
-    <lastmod>2024-10-13T00:38:54.779Z</lastmod>
+    <lastmod>2024-10-15T00:55:30.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Rodrisam10.github.io/about.html</loc>
+    <lastmod>2024-10-15T00:55:30.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Rodrisam10.github.io/Python_y_yo.html</loc>
+    <lastmod>2024-10-15T00:55:30.910Z</lastmod>
   </url>
 </urlset>
