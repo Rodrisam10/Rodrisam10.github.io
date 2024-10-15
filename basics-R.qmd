@@ -35,7 +35,7 @@ R define la radicación para un valor de índice 2, para ampliar la ejecución a
 sqrt(81)
 
 #radicación para cualquier valor de índice 
-result <- m^(1/n)
+# result <- m^(1/n)
 # Donde m es la base y n el índice de la raíz
 ```
 
@@ -46,13 +46,13 @@ R define el logaritmo en base e, o logaritmo natural. Para ampliar la ejecución
 - Opción 1: 
 
 ```{r}
-log(<tu_numero>, base = <tu base>)
+# log(<tu_numero>, base = <tu base>)
 ```
 
 - Opción 2:
 
 ```{r}
-log(<tu_numero>,<tu_base>)
+# log(<tu_numero>,<tu_base>)
 ```
 Este caso es símil a una función que admite dos argumentos: valor del número de prueba y el valor de la base.
 
