@@ -2,4 +2,28 @@
 title: "R: lo que tienes que saber"
 ---
 
-Hola
+## Operaciones básicas en R
+
+Tener en cuenta:
+
+1. Signos de agrupación
+2. Declaración explicita de la operación matemática a ejecutar
+3. Jerarquía de operaciones
+
+```
+# SUMA
+3+8
+
+# RESTA
+3-8
+
+# Multiplicación
+3*8
+
+# División
+3/8
+
+# Potenciación
+3^(8)
+
+```
