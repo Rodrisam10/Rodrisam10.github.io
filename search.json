@@ -4,7 +4,7 @@
     "href": "basics-R.html",
     "title": "R: lo que tienes que saber",
     "section": "",
-    "text": "Tener en cuenta:\n\nSignos de agrupación\nDeclaración explicita de la operación matemática a ejecutar\nJerarquía de operaciones\n\n# SUMA\n3+8\n\n# RESTA\n3-8\n\n# Multiplicación\n3*8\n\n# División\n3/8\n\n# Potenciación\n3^(8)",
+    "text": "Tener en cuenta:\n\nSignos de agrupación\nDeclaración explicita de la operación matemática a ejecutar\nJerarquía de operaciones\n\n\n# SUMA\n3+8\n\n[1] 11\n\n# RESTA\n3-8\n\n[1] -5\n\n# Multiplicación\n3*8\n\n[1] 24\n\n# División\n3/8\n\n[1] 0.375\n\n# Potenciación\n3^(8)\n\n[1] 6561",
     "crumbs": [
       "Home",
       "R: lo que tienes que saber",
@@ -16,7 +16,7 @@
     "href": "basics-R.html#operaciones-básicas-en-r",
     "title": "R: lo que tienes que saber",
     "section": "",
-    "text": "Tener en cuenta:\n\nSignos de agrupación\nDeclaración explicita de la operación matemática a ejecutar\nJerarquía de operaciones\n\n# SUMA\n3+8\n\n# RESTA\n3-8\n\n# Multiplicación\n3*8\n\n# División\n3/8\n\n# Potenciación\n3^(8)",
+    "text": "Tener en cuenta:\n\nSignos de agrupación\nDeclaración explicita de la operación matemática a ejecutar\nJerarquía de operaciones\n\n\n# SUMA\n3+8\n\n[1] 11\n\n# RESTA\n3-8\n\n[1] -5\n\n# Multiplicación\n3*8\n\n[1] 24\n\n# División\n3/8\n\n[1] 0.375\n\n# Potenciación\n3^(8)\n\n[1] 6561",
     "crumbs": [
       "Home",
       "R: lo que tienes que saber",
