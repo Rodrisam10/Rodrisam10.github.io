@@ -1,0 +1,42 @@
+---
+Title: Lo más básico de Python
+---
+
+# Generalidades
+
+Para el análisis de datos bioinformáticos, aprovecharemos las funciones de manipulación de "strings".
+Toda secuencia nucleotídica puede ser interpretada como un "string"
+
+Comandos esenciales:
+
+- <print>
+- <type>
+- <len>
+- <count>
+- <input>
+- <upper>
+- <replace>
+
+
+```{python}
+# Un ejemplo de secuencia nucleotídica
+DNA = "ATCGGCGGCGCTATAGGA"
+
+#Para imprimir
+print(DNA)
+
+#Para evaluar tipo de variable
+type(DNA)
+
+#Para calcular longitud de secuencia (Numero de bases)
+len(DNA)
+````
+
+#Para contar carácteres
+DNA.count('A')
+
+#Para poner letras en mayuscula
+DNA.upper()
+
+#Para reemplazar valores de string por otros (ejemplo para espacios vacíos)
+DNA.replace(' ','')
