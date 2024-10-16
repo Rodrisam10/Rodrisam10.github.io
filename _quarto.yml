@@ -11,6 +11,7 @@ website:
       - section: "Python: lo que tienes que saber"
         contents:
           - Python_y_yo.qmd
+          - Python_essentials.qmd
       - section: "R: lo que tienes que saber"
         contents:
           - basics-R.qmd
