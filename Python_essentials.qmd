@@ -30,7 +30,7 @@ type(DNA)
 
 #Para calcular longitud de secuencia (Numero de bases)
 len(DNA)
-````
+
 
 #Para contar carácteres
 DNA.count('A')
@@ -40,3 +40,4 @@ DNA.upper()
 
 #Para reemplazar valores de string por otros (ejemplo para espacios vacíos)
 DNA.replace(' ','')
+```
