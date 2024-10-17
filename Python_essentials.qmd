@@ -1,5 +1,6 @@
 ---
 Title: Lo más básico de Python
+jupyter: python3
 ---
 
 # Generalidades
